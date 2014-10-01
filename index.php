@@ -8,6 +8,7 @@
     <body>
         <?php
      echo "This is a test!";
+     echo"This is update!"
         ?>
     </body>
 </html>
